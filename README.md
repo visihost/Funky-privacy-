@@ -7,7 +7,7 @@ Funky Music Bot ("we," "our," or "us") is committed to respecting your privacy a
  **1. Data Collection**
 Funky Music Bot only collects and processes data that is necessary to provide our services. This data includes:
 
-- **Message Content:** We process message content solely to respond to user commands (e.g., `!play`, `!skip`). We do not store or log message content after the command is processed.
+- **Message Content:** We process message content solely to respond to user commands (e.g., `+play`, `+skip`). We do not store or log message content after the command is processed.
 - **Presence Data:** If enabled, we track user presence (whether a user is online or idle) to provide dynamic music experiences, such as automatically pausing music when all users leave a voice channel. This data is used temporarily and not stored off-platform.
 - **Server Member Data:** We may use server member data to personalize music experiences (e.g., playing personalized welcome tracks for new members), but this data is also not stored beyond the session.
 
